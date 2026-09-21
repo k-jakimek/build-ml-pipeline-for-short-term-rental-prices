@@ -1,4 +1,4 @@
-W&B Project url: https://wandb.ai/k-jakimek-test-company/nyc_airbnb
+W&B Project url: https://wandb.ai/k-jakimek-test-company/nyc_airbnb \
 Gihub: https://github.com/k-jakimek/build-ml-pipeline-for-short-term-rental-prices
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
